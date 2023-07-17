@@ -16,3 +16,4 @@ vless://547632de-5fe9-4f2c-b20e-8812239f1055@188.121.104.228:54279?encryption=no
 vless://81e23395-3814-4c7d-c89a-91d02d7f1d74@193.151.147.119:4921?encryption=none&security=none&type=tcp&headerType=http#TnThost1
 vless://50a761ca-9920-4043-afb0-90970f1724ab@193.151.134.190:443?type=tcp&path=%2F&host=digikala.com&headerType=http&security=none#Plus-ndzviban
 vless://6510300d-1718-4e3a-a9bf-17ef94205c52@188.121.105.153:20343?type=tcp&path=%2F&headerType=http&security=none#admin-9vystlz0
+vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJtb2todGFyLWRybG5xYjdhIiwKICAiYWRkIjogIjE5My4xNTEuMTQyLjE5OSIsCiAgInBvcnQiOiA0Nzk3MywKICAiaWQiOiAiMzdkYTI5ZDItYjZiZC00NTg0LWMwZTItM2Y4OGUyYmNhN2QyIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAiaHR0cCIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ0ZWxld2ViaW9uLmNvbSIKfQ==
